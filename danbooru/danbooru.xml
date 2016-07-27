@@ -40,7 +40,7 @@
       <Value>Telain/danbooru</Value>
     </Variable>
     <Variable>
-      <Name>HOSTNAME</Name>
+      <Name>URL</Name>
       <Value>TOWER</Value>
     </Variable>
   </Environment>
